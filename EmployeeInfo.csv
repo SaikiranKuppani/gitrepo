@@ -1,0 +1,21 @@
+EmpNo,EmpName,EmpDesignation,EmpSalary,EmpDeptNo,EmpIsPermenant
+1001,John Smith,Manager,75000,10,Yes
+1002,Emily Davis,Developer,55000,20,Yes
+1003,Robert Brown,Tester,50000,30,No
+1004,Sophia Wilson,HR,60000,10,Yes
+1005,Daniel Moore,Developer,53000,20,No
+1006,Olivia Taylor,Analyst,48000,30,Yes
+1007,Liam Johnson,Manager,76000,40,Yes
+1008,Ava Thomas,Designer,47000,30,No
+1009,Noah Anderson,Developer,59000,20,Yes
+1010,Emma Martinez,HR,61000,10,Yes
+1011,Mason White,Developer,56000,20,No
+1012,Isabella Harris,Tester,52000,30,Yes
+1013,Ethan Clark,Manager,77000,40,Yes
+1014,Mia Lewis,Analyst,49000,30,No
+1015,James Hall,Developer,58000,20,Yes
+1016,Amelia Allen,Designer,46000,30,Yes
+1017,Lucas Young,HR,62000,10,No
+1018,Charlotte King,Tester,51000,30,Yes
+1019,Henry Wright,Manager,78000,40,Yes
+1020,Evelyn Scott,Analyst,49500,30,No
