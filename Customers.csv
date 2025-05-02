@@ -1,0 +1,31 @@
+CustId,Name,LastName,ProductId,City,Balance,IsActive
+2001,Alice,Anderson,1,New York,1200.5,Yes
+2002,Bob,Brown,2,Los Angeles,980.0,No
+2003,Charlie,Clark,3,Chicago,450.75,Yes
+2004,Diana,Davis,4,Houston,1600.0,Yes
+2005,Ethan,Evans,5,Phoenix,2000.2,No
+2006,Fiona,Foster,1,Philadelphia,875.0,Yes
+2007,George,Green,2,San Antonio,990.4,No
+2008,Hannah,Hill,3,San Diego,500.0,Yes
+2009,Ian,Irwin,4,Dallas,1450.3,No
+2010,Julia,Johnson,5,San Jose,300.0,Yes
+2011,Kevin,Keller,1,Austin,2100.0,Yes
+2012,Laura,Lopez,2,Jacksonville,1550.0,Yes
+2013,Michael,Martin,3,Fort Worth,430.0,No
+2014,Nina,Nelson,4,Columbus,780.25,Yes
+2015,Oscar,Owens,5,Charlotte,1150.1,No
+2016,Paula,Perez,1,San Francisco,900.0,Yes
+2017,Quinn,Quincy,2,Indianapolis,1320.0,Yes
+2018,Rachel,Reed,3,Seattle,125.0,No
+2019,Sam,Stewart,4,Denver,1345.6,Yes
+2020,Tina,Turner,5,Washington,880.0,No
+2021,Uma,Underwood,1,Boston,1190.0,Yes
+2022,Victor,Vargas,2,El Paso,1650.75,Yes
+2023,Wendy,Williams,3,Detroit,745.0,No
+2024,Xander,Xiong,4,Nashville,990.5,Yes
+2025,Yara,Young,5,Portland,1235.2,Yes
+2026,Zack,Zimmer,1,Memphis,480.0,No
+2027,Anna,Adams,2,Oklahoma City,1080.0,Yes
+2028,Brian,Bennett,3,Las Vegas,670.0,Yes
+2029,Clara,Cook,4,Louisville,1900.1,No
+2030,David,Dunn,5,Baltimore,1330.0,Yes
